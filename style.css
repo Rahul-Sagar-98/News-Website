@@ -13,7 +13,7 @@
     --accent-color-dark: #1d69a3;
 }
 
-body {
+body {   
     font-family: "Poppins", sans-serif;
     color: var(--primary-text-color);
 }
